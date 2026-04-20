@@ -237,7 +237,7 @@ Caption: Logs from two CPU-bound containers showing the impact of scheduling pri
 ---
 
 ### 8 — Clean Teardown
-
+<img width="1517" height="218" alt="Screenshot from 2026-04-20 20-14-20" src="https://github.com/user-attachments/assets/c874b826-78bf-47be-a0b2-38b132c6abda" />
 <br>
 Caption: Cleanup sequence showing supervisor termination and kernel module unloading with container unregister events
 
